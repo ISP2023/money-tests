@@ -5,7 +5,7 @@ Students get credit for this assignment based on how much they did.
 The tests and point values are:
 
 | Test file         | Points                 | Total Pts
-|-------------------|------------------------|----------
+|-------------------|------------------------|:---------:
 | `test_money.py`   | 2 pts each test passed | 10
 | `test_banknote.py`| 1 pt each test passed  |  2
 | `test_multiply.py`| 1 pt each test passed  |  2
